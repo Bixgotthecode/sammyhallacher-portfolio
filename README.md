@@ -1,13 +1,13 @@
 # Engineering Portfolio
 
-A modern, responsive portfolio website showcasing engineering projects, skills, and experience. Built with HTML5, CSS3, and JavaScript, designed to be hosted on GitHub Pages.
+A modern, responsive portfolio website showcasing engineering projects, skills, and experience. Built with HTML5, CSS3, and JavaScript, designed to be deployed on Vercel.
 
 ## Features
 
 - **Responsive Design**: Optimized for all devices (desktop, tablet, mobile)
 - **Modern UI/UX**: Clean, professional design with smooth animations
 - **Interactive Elements**: Smooth scrolling, hover effects, and form validation
-- **GitHub Pages Ready**: Configured for easy deployment on GitHub Pages
+- **Vercel Ready**: Configured for easy deployment on Vercel
 - **SEO Optimized**: Proper meta tags and semantic HTML structure
 - **Accessibility**: WCAG compliant with proper ARIA labels and keyboard navigation
 
@@ -38,8 +38,8 @@ A modern, responsive portfolio website showcasing engineering projects, skills, 
 
 1. **Fork or Clone this repository**
    ```bash
-   git clone https://github.com/sammyhallacher/sammyhallacher.github.io.git
-   cd sammyhallacher.github.io
+   git clone https://github.com/bixgotthecode/sammyhallacher-portfolio.git
+   cd sammyhallacher-portfolio
    ```
 
 2. **Customize the content**
@@ -47,15 +47,15 @@ A modern, responsive portfolio website showcasing engineering projects, skills, 
    - Modify `styles.css` to change colors, fonts, or layout
    - Update `script.js` for additional functionality
 
-3. **Deploy to GitHub Pages**
-   - Go to your repository settings
-   - Scroll down to "Pages" section
-   - Select "Deploy from a branch"
-   - Choose "main" branch and "/ (root)" folder
-   - Click "Save"
+3. **Deploy to Vercel**
+   - Go to [vercel.com](https://vercel.com) and sign up/login
+   - Click "New Project"
+   - Import your GitHub repository
+   - Vercel will automatically detect it's a static site
+   - Click "Deploy"
 
 4. **Access your portfolio**
-   - Your site will be available at: `https://sammyhallacher.github.io`
+   - Your site will be available at: `https://sammyhallacher-portfolio.vercel.app`
 
 ## Customization Guide
 
