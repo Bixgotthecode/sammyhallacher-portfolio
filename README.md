@@ -38,8 +38,8 @@ A modern, responsive portfolio website showcasing engineering projects, skills, 
 
 1. **Fork or Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/engr_portfolio.git
-   cd engr_portfolio
+   git clone https://github.com/sammyhallacher/sammyhallacher.github.io.git
+   cd sammyhallacher.github.io
    ```
 
 2. **Customize the content**
@@ -55,7 +55,7 @@ A modern, responsive portfolio website showcasing engineering projects, skills, 
    - Click "Save"
 
 4. **Access your portfolio**
-   - Your site will be available at: `https://yourusername.github.io/engr_portfolio`
+   - Your site will be available at: `https://sammyhallacher.github.io`
 
 ## Customization Guide
 
